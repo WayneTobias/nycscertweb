@@ -15,5 +15,5 @@ In this section of the class we focused on Arrays and SuperArrays.
 
 One of the highlights was The Game Of Life.
 
-It focused on
+It focused on 
 
