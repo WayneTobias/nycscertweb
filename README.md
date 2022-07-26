@@ -12,12 +12,24 @@ By the end you are at the top of the food chain!
 Programming:
 ====
 In this section of the class we focused on Arrays and SuperArrays.
+We also moved into using a Driver file to display our results.
 
-One of the highlights was Conway's The Game Of Life.
+<!-- ![image](https://user-images.githubusercontent.com/97981964/180930558-62221679-4bce-4fdf-8097-a0dd21e7a0d5.png) -->
+<img src="https://user-images.githubusercontent.com/97981964/180930558-62221679-4bce-4fdf-8097-a0dd21e7a0d5.png" width="250">
 
-The Game of Life is a zero player game.  It represents a simple growth and death pattern based on a few conditions.  The Game of Life becomes more interesting as you discover patterns that repeat, move across the screen, or expand.  
-
-![image](https://user-images.githubusercontent.com/97981964/180924657-2a073cdb-3792-4061-8fd1-7f39789a7332.png)
+One of the highlights was Conway's <b>The Game Of Life.</b>
 
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/97981964/180924657-2a073cdb-3792-4061-8fd1-7f39789a7332.png)" width="100">
+| Rules        | Life / Death      | Death  |
+| ------------- |-------------| -------------|
+| If it has 2 or 3 neighbors | live cell remains alive | right amount of neighbors |
+| If it has <2 or >3 neighbors | the cell dies | as if from overcrowding or undercrouding |
+| Any dead cell with exactly 3 neighbors    | comes to life      |  right amount of neighbors |
+
+
+The Game of Life is a zero player game.  It represents a simple growth and death pattern based on a few conditions.  The Game of Life becomes more interesting as you discover patterns that repeat, move across the screen, expand, or quietly fade out in an elegant manner.
+
+<!---  ![image](https://user-images.githubusercontent.com/97981964/180924657-2a073cdb-3792-4061-8fd1-7f39789a7332.png)  --->
+<!--- using comment tags to hide original image -->
+
+<img src="https://user-images.githubusercontent.com/97981964/180924657-2a073cdb-3792-4061-8fd1-7f39789a7332.png" width="800">
