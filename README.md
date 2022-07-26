@@ -33,3 +33,17 @@ The Game of Life is a zero player game.  It represents a simple growth and death
 <!--- using comment tags to hide original image -->
 
 <img src="https://user-images.githubusercontent.com/97981964/180924657-2a073cdb-3792-4061-8fd1-7f39789a7332.png" width="800">
+
+
+
+Data Structures:
+====
+In this section of the class we focused on Arrays, Linked Lists, Pointers and Sorting.
+
+<img src="https://user-images.githubusercontent.com/97981964/180932163-0f20af23-85f3-4ab4-bf76-71286093c4ea.png" width="250">
+
+
+
+Methods:
+====
+In this section of the class we focused on
